@@ -1,10 +1,26 @@
 ---
-title: "EDS113"
-date: "2020-09-24"
-description: "My eJournal on EDS113 Principles and Methods of Assessment"
+title: "EDS113 – Module 1"
+date: "2020-09-25"
+description: "EDS113 Module1 eJournal: School Assessment As A Preparation and a Tool for Better Opportunities in Life"
 ---
 
-Hello world. This is EDS 113
+EDS113 Module1 eJournal: School Assessment As A Preparation and a Tool for Better Opportunities in Life
+
+For the longest time, I have always seen assessments on the perspective of being a student, taking written and/or oral exam. Those dreadful hour/s during my Chemical Engineering college days (an hour that could define 20% to 50% of my grade) and even more dreadful is the Finals week (headache to the maximum level and sleepless nights). For someone who aspires for excellent grades, getting a 1.something grade is the measure of real success. 
+
+Looking back now, that I am to look at it from the perspective of a student working on becoming an educator, I ask myself, was the assessment measured my performance post-academe? Were the assessment done enough to prepare me for the outside world and to become a productive contributor to our society?  Let me breakdown the assessments done: 
+
+(1) Technical Assessments: These are usually measured in terms of the grasp of theories and being able to solve problems and equations. The concepts I’ve gained in preparation for the exams are useful especially during the early part of my career wherein as a process engineer, the grasp of these concepts and my ability to apply the theoretical learnings (learned from the studying in preparation for assessments) into the meaningful output on my work (ex. chemical usage optimization, alternative chemicals, and chemical etch process optimization) were vital.
+
+(2) Thesis: The integration of the learnings that I had, can be summarized here. The lab. works, the oral defense, and the final paper where the measurement of one’s performance. The thesis helped me prepare for the real world. It’s the closest I can get from the future actual work. Hence, I must say having this subject is extremely useful – I was able to do actual lab works, write a paper, and contribute to the body of knowledge.
+
+(3) GE Subjects (mostly on communication, history, and Philosophy): These subjects are fundamental and I find the assessment on these subjects both objective and subjective. Unlike the technical subjects wherein the concepts are defined and non-debatable (unless one becomes the next scientist), GE subjects enjoy the freedom of teaching instruction and form of assessment based on the likeness and interpretation of the professor. While GE subjects have their course description, the teacher has the freedom to interpret it. In one instance, I had a very interesting experience of taking a History class in the context of Physics. My Prof. at that time was called the Albert Einstein of Humanities and passing on his subject was not easy (but thank God I did, with much work and perseverance, probably 80% off all my study effort for the entire Sem. with the remaining 20% of my effort for the other 19 units on my 22 units). I ended up getting a grade of “2,” my lowest grade for that Semester (but this grade was already considered high, considering the feedback from previous students that he usually gives 3 or 5)…
+
+Now, the question is, “did my History professor made the proper assessment, or was it a meaningless assessment of a student’s capability in History when you are putting History in the context of Physics?” While I had the most difficult time under his subject, this prepared me in real life’s battle and open my perspective. He developed that strong character in me – to never give up and to never limit myself to the traditional definition. This 1st semester prepared me for the succeeding semesters and that determination served as a good foundation for me to complete my course on time (without failing marks and with quite good grades).
+
+Lastly, according to the illustration on EDS113 Module 1, the value of the good assessment is getting better opportunities in life (Source: Fig. 1. The value of good assessment. Image source: MassachusettsESE). Then, my question to myself would be: “Were the assessments done on my college days allowed me to get better opportunities life?” Without a single doubt that I will answer that, “Yes, it did.” From a poor girl who just knows the basic math and science from college days, it opened good opportunities to at work (taking a humble position of the technician, going to Process Engineer, Senior Engr, Staff Engr., Section Manager to Department Manager). The key concepts learned and measured through assessment exams from the university days were the foundation but the character developed with the exposure to these assessments had helped me grow on the career ladder.
+
+Now, how do I turn this from a future educator’s perspective? As a future educator, I would like to provide assessment that provides not just meaningless student scores but rather I’d like them to have knowledge (that would be useful to them) and lifelong lessons that will help the student to have a chance to improve their social status and become productive citizens of our country. And having said this, I am excited to learn more on the succeeding modules on EDS 113 on how I can achieve this goal and make that positive contribution to the academe and to the society as an educator and a continuous learner. ❤️
 
 
 
