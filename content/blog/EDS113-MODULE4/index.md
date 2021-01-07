@@ -1,12 +1,27 @@
 ---
-title: "EDS113 Module 4"
-date: "2020-10-24"
-description: "Traditional + Real Life Assessments"
+title: "EDS113 Module 5"
+date: "2020-11-14"
+description: "Assessment Circle and Keeping Assessments Aligned and Relevant"
 ---
 
-Preparations for assessments are pretty stressful and scary as this will define whether I would pass or fail on a subject, whether will I retain my scholarship or not… There are so many things at stake, esp. on midterm, final exam and thesis defense or comprehensive exam on my Masterals… At the interim, assessments define my grade but apart from that, my future and future of the people I love. 😊
-Honestly, I don’t like assessment but the relief after every assessment (knowing that whatever comes out is my best), gives me satisfaction but not necessarily peace (as anything beyond perfection, it not good enough)… That was me decade ago…
-I might be weird that I personally like traditional exams but this dates back when I made a choice to pursue the field of science. I was taught to look at things in finite form and there is little wiggle room for areas that are subject for interpretation. I was used on answering objectively and scientifically. Writing is not my thing (except if it’s a mathematical or scientific report). Hence, writing this eJournal is not on my comfort zone but I was trained to be grateful, appreciate and eventually find joy on the things that opens up on my way (and this is what I am starting to do on this EDS class).
-IF and WHEN the day comes that I could be an educator, I would choose to pursue teaching on the field of science and I would still do traditional assessments. I believe theories are foundation on ones’ knowledge. However, I would try to incorporate some real life assessments that would allow them to appreciate what they see on nature and connect it to science and math. By doing that, I think they would have deeper appreciation of the learning that they have obtained.
+### Assessment Circle and Keeping Assessments Aligned and Relevant
+
+I am happy to have learned that, learning assessment takes a full circle, looking into how students have learned (assessment of learning), how educators will respond and adjust based on the students’ progress (assessment for learning) and personally, an even higher form of an assessment when students are able to reflect on their learning (assessment as learning).
+
+As a former student, I am familiar with assessment of learning (exam results is the measure of my performance) and the results of such exams allows me reflect on the areas that I already know and those that I still need to improve (assessment as learning). On this module, it opened my understanding for assessment for learning and I can’t stop myself from asking the question, “Has this been used by educators properly? How did my generation (during my academic days) benefited from this?” Unfortunately, I can’t concretely answer these questions…
+
+Aligned and not aligned assessments? In the field of science, this one is usually straightforward (assessments are usually aligned to the subject). However, there’s a bigger picture in life, it’s not just theories and exact science. How do we align assessments to adapt to the need of collaborative work and successful teamwork?
+
+I am hoping should the day come that I am on the other side of the spectrum (i.e. an educator), I am able to utilize the assessment for learning and ensure that assessments are aligned on learning goals. While it’s important to teach the hardcore subjects, i.e. math or science, I should not forget to holistically look into the students’ learnings (i.e. developing one’s character, communication and ability to work with others in order to maximize results), as no single skill makes one highly successful on this world. 😊 
+
+I also hope that the learnings that I will gain in this PTC class, will allow me to make the appropriate teaching materials to facilitate student’s learnings based on the subjects scope and make the necessary improvement based on student’s response and in making the learning information timely and adapted to the student’s needs and in response to the changing needs of our time.
+
+
+#### References:
+- https://thelearningexchange.ca/wp-content/uploads/2015/01/Rethinking-Assessment-Viewing-Guide.pdf
+- https://www.education.vic.gov.au/school/teachers/teachingresources/practice/Pages/assessment.aspx
+- www.education.vic.gov.au › teachers › practice › Pages
+
+
 
 
